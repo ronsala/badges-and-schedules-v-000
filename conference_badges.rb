@@ -7,5 +7,6 @@ def batch_badge_creator(name_array)
 end
 
 def assign_rooms(speaker_array)
-  speaker_array.map { |speaker| 
+  room_assignment_
+  speaker_array.map { |speaker| "Hello, #{speaker}! You'll be assigned to room _____!"
 end
